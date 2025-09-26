@@ -3,7 +3,7 @@
 | Name                        | Role               | GitHub      | Email                       |
 |-----------------------------|------------------|------------|-----------------------------|
 | Reni Zani                   | Database Specialist  | zreni27    | rzani@myseneca.ca           |
-| Hrishikesh Dipak Desai      | enter role   | hddesai1   | hddesai1@myseneca.ca       |
+| Hrishikesh Dipak Desai      | Front-End Dev   | hddesai1   | hddesai1@myseneca.ca       |
 | Kevin Jose Ortega Taveras   | Back-End Dev | kevs850   | kjortega-taveras@myseneca.ca |
 
 
