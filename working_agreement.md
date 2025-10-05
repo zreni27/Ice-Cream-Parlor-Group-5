@@ -36,4 +36,5 @@ By agreeing to this Working Agreement, each team member are commited to followin
 **Team Members:**
 
 Reni Zani
+Hrishikesh Dipak Desai
 ---
