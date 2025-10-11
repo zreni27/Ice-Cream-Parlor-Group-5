@@ -36,7 +36,8 @@ A website that allows admin control to update the menu to ensure the menu is fol
 7. Final integrated system deployed to hosting environment and ready for presentation
 
 ### 3.1 Work Breakdown Structure
-*insert the wbs here*
+![WBS Chart](wbs1.png)
+
 
 ### 3.2 Requirements Traceability Matrix
 
@@ -58,7 +59,8 @@ A website that allows admin control to update the menu to ensure the menu is fol
 5. Final tested and deployed version hosted on Vercel with documentation.
 
 ### 4.1 Gantt Chart
-*add gantt chart here*
+![Gantt Chart](gantt1.jpg)
+
 
 ---
 
