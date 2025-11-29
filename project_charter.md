@@ -75,36 +75,32 @@ A website that allows admin control to update the menu to ensure the menu is fol
 
 ## 7. Risks, Assumptions, and Constraints - Leave Empty
 R1 – Freezer / refrigeration failure
-*Description: Breakdown of freezers causes product loss and temporary closure.
+*Description:* Breakdown of freezers causes product loss and temporary closure.
 - Likelihood: High
 - Impact: High
 
 R2 – Staff shortage in peak hours
-
-Description: Not enough staff to attend customers on weekends or holidays, increasing waiting time.
+*Description:* Not enough staff to attend customers on weekends or holidays, increasing waiting time.
 - Likelihood: High
 - Impact: Low–medium
 
 R3 – Supplier delays or stockouts
-
-Description: Main dairy or toppings supplier cannot deliver on time.
+*Description:* Main dairy or toppings supplier cannot deliver on time.
 - Likelihood: Low–medium
 - Impact: High
 
 R4 – Negative online reviews / social media complaints
-*Description: Bad service experience goes viral and affects reputation.
+*Description:* Bad service experience goes viral and affects reputation.
 - Likelihood: High
 - Impact: Low–medium
 
 R5 – Health & safety incident
-
-Description: Food contamination or failing a sanitary inspection.
+*Description:* Food contamination or failing a sanitary inspection.
 - Likelihood: Low
 - Impact: Very high (closure, fines, reputation damage).
 
 R6 – POS / ordering system outage
-
-Description: Cashier or online ordering system goes down for several hours.
+*Description:* Cashier or online ordering system goes down for several hours.
 - Likelihood: Low
 - Impact: Low–medium
 
