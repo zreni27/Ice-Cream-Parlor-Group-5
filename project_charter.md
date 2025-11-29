@@ -73,7 +73,7 @@ A website that allows admin control to update the menu to ensure the menu is fol
 
 ![Communications Plan](communications_plan.png)
 
-## 7. Risks, Assumptions, and Constraints - Leave Empty
+## 7. Risks, Assumptions, and Constraints 
 - **R1 – Freezer / refrigeration failure**  
   *Description:* Breakdown of freezers causes product loss and temporary closure.  
   - Likelihood: High  
