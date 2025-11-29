@@ -75,8 +75,7 @@ A website that allows admin control to update the menu to ensure the menu is fol
 
 ## 7. Risks, Assumptions, and Constraints - Leave Empty
 R1 – Freezer / refrigeration failure
-
-Description: Breakdown of freezers causes product loss and temporary closure.
+*Description: Breakdown of freezers causes product loss and temporary closure.
 - Likelihood: High
 - Impact: High
 
@@ -93,8 +92,7 @@ Description: Main dairy or toppings supplier cannot deliver on time.
 - Impact: High
 
 R4 – Negative online reviews / social media complaints
-
-Description: Bad service experience goes viral and affects reputation.
+*Description: Bad service experience goes viral and affects reputation.
 - Likelihood: High
 - Impact: Low–medium
 
