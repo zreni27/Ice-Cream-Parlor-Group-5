@@ -68,10 +68,9 @@ A website that allows admin control to update the menu to ensure the menu is fol
 ![Preliminary Budget](Preliminary_Budget0.jpg)
 ![PreliminaryBudget](Preliminary_Budget1.jpg)
 
-## 6. Organization and Stakeholders
+## 6. Organization, Stakeholders & Communication Plan
 ![Stakeholder Matrix](Stakeholder_Matrix.jpg)
 
-Communication Plan
 ![Communications Plan](communications_plan.png)
 
 ## 7. Risks, Assumptions, and Constraints - Leave Empty
