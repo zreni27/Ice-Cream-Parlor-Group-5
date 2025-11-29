@@ -36,7 +36,7 @@ A website that allows admin control to update the menu to ensure the menu is fol
 7. Final integrated system deployed to hosting environment and ready for presentation
 
 ### 3.1 Work Breakdown Structure
-![WBS Chart](wbs1.png)
+![WBS Chart](wbs2.png)
 
 
 ### 3.2 Requirements Traceability Matrix
@@ -70,5 +70,8 @@ A website that allows admin control to update the menu to ensure the menu is fol
 
 ## 6. Organization and Stakeholders
 ![Stakeholder Matrix](Stakeholder_Matrix.jpg)
+
+Communication Plan
+![Communications Plan](communications_plan.png)
 
 ## 7. Risks, Assumptions, and Constraints - Leave Empty
