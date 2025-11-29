@@ -59,7 +59,7 @@ A website that allows admin control to update the menu to ensure the menu is fol
 5. Final tested and deployed version hosted on Vercel with documentation.
 
 ### 4.1 Gantt Chart
-![Gantt Chart](gantt1.jpg)
+![Gantt Chart](ice_cream_parlor_gantt.png)
 
 
 ---
