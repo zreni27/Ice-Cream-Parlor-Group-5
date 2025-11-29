@@ -68,6 +68,7 @@ A website that allows admin control to update the menu to ensure the menu is fol
 ![Preliminary Budget](Preliminary_Budget0.jpg)
 ![PreliminaryBudget](Preliminary_Budget1.jpg)
 
-## 6. Organization and Stakeholders - Leave Empty
+## 6. Organization and Stakeholders
+![Stakeholder Matrix](Stakeholder_Matrix.jpg)
 
 ## 7. Risks, Assumptions, and Constraints - Leave Empty
