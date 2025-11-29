@@ -65,8 +65,8 @@ A website that allows admin control to update the menu to ensure the menu is fol
 ---
 
 ## 5. Preliminary Budget 
-[PreliminaryBudget](PreliminaryBudget-images-0.jpg)
-[PreliminaryBudget](PreliminaryBudget-images-1.jpg)
+![PreliminaryBudget](Preliminary_Budget0.jpg)
+![PreliminaryBudget](Preliminary_Budget1.jpg)
 
 ## 6. Organization and Stakeholders - Leave Empty
 
